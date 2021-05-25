@@ -1,4 +1,3 @@
-// import {isValidURL} from ''
 const {isValidURL} = require ('./isValidURL')
 async function handleSubmitURL(event) {
     event.preventDefault()
@@ -24,5 +23,4 @@ async function handleSubmitURL(event) {
     console.log(urlToAnalyze)
 }
 
-// export {handleSubmitURL}
 module.exports = {handleSubmitURL};

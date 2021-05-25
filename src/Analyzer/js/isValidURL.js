@@ -8,5 +8,4 @@ function isValidURL(URL){
         return false;
     }
 }
-// export {isValidURL};
 module.exports = {isValidURL};
