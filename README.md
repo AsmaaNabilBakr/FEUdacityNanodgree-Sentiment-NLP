@@ -7,12 +7,12 @@ Webpack Project for Advanced Frontend Developer Nanodegree - Udacity
 
 # Run Dev Environment
 > npm run build-dev
-open browser http://localhost:8080/
+>> open browser http://localhost:8080/
 
 # Run Production Environment
 > npm run build-prod
-open browser http://localhost:8082/
+>> open browser http://localhost:8082/
 
 # Run test Cases
 > npm run test
- I test if my functions are Defined or not using jest
+ >> I test if my functions are Defined or not using jest
